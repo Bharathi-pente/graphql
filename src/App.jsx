@@ -92,6 +92,7 @@ export default function App() {
           Add / View / Edit / Delete products via a GraphQL API
         </p>
         <p>HEllo World!</p>
+        <p>23 years old</p>
       </header>
 
       {error && <div className="error">⚠ {error}</div>}
