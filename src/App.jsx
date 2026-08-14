@@ -93,6 +93,7 @@ export default function App() {
         </p>
         <p>MY NAME IS JOHN DOE</p>
         <p>HEllo World!</p>
+        <p>One more line added for the PR test 🚀</p>
         <p>23 years old</p>
         <p>My name is John Doe</p>
       </header>
