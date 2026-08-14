@@ -93,6 +93,7 @@ export default function App() {
         </p>
         <p>HEllo World!</p>
         <p>23 years old</p>
+        <p>My name is John Doe</p>
       </header>
 
       {error && <div className="error">⚠ {error}</div>}
