@@ -1,0 +1,21 @@
+{
+  "name": "graphql-frontend",
+  "version": "1.0.0",
+  "description": "React frontend wired to the GraphQL backend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "graphql": "^16.8.1",
+    "graphql-request": "^7.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
