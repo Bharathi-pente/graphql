@@ -91,6 +91,7 @@ export default function App() {
         <p className="subtitle">
           Add / View / Edit / Delete products via a GraphQL API
         </p>
+        <p>MY NAME IS JOHN DOE</p>
       </header>
 
       {error && <div className="error">⚠ {error}</div>}
