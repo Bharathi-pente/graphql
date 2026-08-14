@@ -111,6 +111,9 @@ export default function App() {
         onEdit={handleEditClick}
         onDelete={handleDelete}
       />
+
+      {/* DEMO: change made on feature/test-ci to test the PR pipeline */}
+      <footer className="footer">Built &amp; deployed via GitHub Actions 🚀</footer>
     </div>
   );
 }
